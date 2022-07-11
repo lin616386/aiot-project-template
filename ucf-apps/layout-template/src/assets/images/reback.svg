@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 12@3x</title>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.场景/4.卡片/标准/浏览" transform="translate(-40.000000, -22.000000)">
+            <g id="编组-26" transform="translate(32.000000, 18.000000)">
+                <g id="编组-7" transform="translate(8.000000, 3.000000)">
+                    <g id="编组-12" transform="translate(0.000000, 1.000000)">
+                        <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                        <line x1="1" y1="8" x2="12" y2="8" id="路径-67" stroke="#505766" stroke-linecap="round"></line>
+                        <polyline id="矩形" stroke="#505766" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.000000, 8.000000) rotate(-135.000000) translate(-5.000000, -8.000000) " points="2 5 8 5 8 11"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

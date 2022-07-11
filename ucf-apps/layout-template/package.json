@@ -1,0 +1,10 @@
+{
+  "name": "template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "新项目直接复制一份",
+  "author": "yonyou",
+  "scripts": {
+    "start": "uu start"
+  }
+}
